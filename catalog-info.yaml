@@ -7,8 +7,8 @@ metadata:
     - yaml
   links:
     - url: https://github.com/reb27/catalog-test/blob/master/README.md
-      title: techdocs
-      icon: techdocs
+      title: Documentacao
+      icon: docs
   annotations:
     backstage.io/techdocs-ref: value
 
