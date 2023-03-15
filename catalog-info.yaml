@@ -6,7 +6,7 @@ metadata:
   tags:
     - yaml
   links:
-    - url: google.com
+    - url: https://github.com/reb27/catalog-test/blob/master/README.md
       title: techdocs
       icon: techdocs
   annotations:
@@ -16,5 +16,3 @@ spec:
   type: library
   lifecycle: development
   owner: reb27
-
-
