@@ -5,8 +5,6 @@ metadata:
   description: Repo vazio
   labels:
     example.com/custom: custom_label_value
-  annotations:
-    backstage.io/techdocs-ref: https://github.com/reb27/catalog-test/blob/master/README.md
   tags:
     - yaml
   links:
@@ -14,6 +12,7 @@ metadata:
       title: techdocs
       icon: techdocs
   annotations:
+      backstage.io/techdocs-ref: https://github.com/reb27/catalog-test/blob/master/README.md
 spec:
   type: library
   lifecycle: development
