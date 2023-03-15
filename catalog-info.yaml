@@ -2,7 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: catalog-test
-  description: Repositório de teste vazio.
+  description: Repo vazio
+  labels:
+    example.com/custom: custom_label_value
+  annotations:
+    backstage.io/techdocs-ref: https://github.com/reb27/catalog-test/blob/master/README.md
   tags:
     - yaml
   links:
@@ -10,7 +14,6 @@ metadata:
       title: techdocs
       icon: techdocs
   annotations:
-      backstage.io/techdocs-ref: value
 spec:
   type: library
   lifecycle: development
