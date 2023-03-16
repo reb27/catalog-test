@@ -10,7 +10,7 @@ metadata:
   links:
     - url: https://www.youtube.com/watch?v=uqwdLRBERdQ
       title: video palestra teste
-      icon: video
+      icon: VideoLibraryIcon
   annotations:
       backstage.io/techdocs-ref: https://github.com/reb27/catalog-test/blob/master/README.md
 spec:
