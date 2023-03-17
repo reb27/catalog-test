@@ -8,9 +8,6 @@ metadata:
   tags:
     - yaml
   links:
-    - url: https://www.youtube.com/watch?v=uqwdLRBERdQ
-      title: video palestra teste
-      icon: gitlab
     - url: https://backstage.io/docs/getting-started/app-custom-theme/
       title: ????
       icon: datadog
