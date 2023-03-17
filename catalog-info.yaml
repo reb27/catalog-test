@@ -11,6 +11,9 @@ metadata:
     - url: https://www.youtube.com/watch?v=uqwdLRBERdQ
       title: video palestra teste
       icon: gitlab
+    - url: https://www.youtube.com/watch?v=uqwdLRBERdQ
+      title: video palestra teste
+      icon: datadog
   annotations:
       backstage.io/techdocs-ref: https://github.com/reb27/catalog-test/blob/master/README.md
 spec:
