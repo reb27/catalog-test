@@ -13,7 +13,6 @@ metadata:
       icon: datadog
     - url: https://backstage.io/docs/getting-started/app-custom-theme/
       title: mac100
-      icon: gitlab
   annotations:
       backstage.io/techdocs-ref: https://github.com/reb27/catalog-test/blob/master/README.md
 spec:
