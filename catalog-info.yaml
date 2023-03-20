@@ -6,8 +6,8 @@ metadata:
   labels:
     example.com/custom: custom_label_value
   tags:
-    - Yaml
-    - Google
+    - yaml
+    - google
   links:
     - url: https://backstage.io/docs/getting-started/app-custom-theme/
       title: ????
